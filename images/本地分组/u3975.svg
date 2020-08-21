@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="616px" height="19px" viewBox="0 0 616 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Status bar - black Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="2" y="2" width="41" height="15" rx="1"></rect>
+    </defs>
+    <g id="nav_bar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav_bar_3" transform="translate(-13.000000, -10.000000)">
+            <g id="Status-bar---black">
+                <g id="Charge" stroke-width="1" fill-rule="evenodd" transform="translate(505.000000, 5.000000)">
+                    <g id="Battery-Icon" transform="translate(75.000000, 5.000000)">
+                        <rect id="Battery" stroke="#000000" x="0.5" y="0.5" width="44" height="18" rx="3"></rect>
+                        <g id="Charge">
+                            <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#000000" stroke-width="1" x="2.5" y="2.5" width="40" height="14" rx="1"></rect>
+                        </g>
+                        <path d="M49,9.46455558 C49,11.2277927 47.6961455,12.6864982 46,12.9291112 L46,6 C47.6961455,6.24261297 49,7.70131842 49,9.46455558 Z" id="+" fill="#000000"></path>
+                    </g>
+                    <text id="100%" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="23">100%</tspan>
+                    </text>
+                </g>
+                <path d="M100.991503,13.0417534 C104.871048,13.0417534 108.406722,14.4709041 111.117706,16.8143562 L113,14.7362192 C109.789204,11.9489315 105.595777,10 100.991503,10 C96.3942272,10 92.2067975,11.9430137 89,14.7214247 L90.8782956,16.8025205 C93.5872798,14.4659726 97.1169561,13.0417534 100.991503,13.0417534 L100.991503,13.0417534 Z M100.991503,19.0404384 C103.316631,19.0404384 105.440835,19.8847123 107.07922,21.2753973 L109.070474,19.0759452 C106.903286,17.2157808 104.084343,16.0006575 100.991503,16.0006575 C97.9046608,16.0006575 95.0877171,17.2128219 92.9225291,19.0670685 L94.9107835,21.2694795 C96.5481694,19.8817534 98.669374,19.0404384 100.991503,19.0404384 L100.991503,19.0404384 Z M105.086967,23.4748493 C103.978383,22.5546301 102.550918,21.9174795 100.990504,21.9174795 C99.4330876,21.9174795 98.0076221,22.5536438 96.8990379,23.4699178 L100.990504,28 L105.086967,23.4748493 L105.086967,23.4748493 Z" id="Wifi" fill="#0C0000" fill-rule="evenodd"></path>
+                <g id="Signal" stroke-width="1" fill-rule="evenodd" transform="translate(13.000000, 14.000000)">
+                    <circle id="Oval-1" fill="#000000" cx="5.5" cy="5.5" r="5.5"></circle>
+                    <circle id="Oval-1-copy" fill="#000000" cx="19.5" cy="5.5" r="5.5"></circle>
+                    <circle id="Oval-1-copy-2" fill="#000000" cx="33.5" cy="5.5" r="5.5"></circle>
+                    <circle id="Oval-1-copy-3" stroke="#000000" cx="47.5" cy="5.5" r="5"></circle>
+                    <circle id="Oval-1-copy-4" stroke="#000000" cx="61.5" cy="5.5" r="5"></circle>
+                </g>
+                <text id="1:15" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="24" font-weight="400" letter-spacing="1.19999981" fill="#000000">
+                    <tspan x="294.248" y="28">1:15 </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
